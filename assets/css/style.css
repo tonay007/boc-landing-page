@@ -35,4 +35,8 @@ body{
     font-size: 14px !important;
     padding: 5px !important;
   }
+  .welcome-page{
+    overflow: visible;
+    overflow-x: hidden;
+  }
 }
